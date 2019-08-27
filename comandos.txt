@@ -1,0 +1,10 @@
+mkdir
+cd
+ls
+ls..
+rm
+touch
+echo
+cat
+cp
+clear
